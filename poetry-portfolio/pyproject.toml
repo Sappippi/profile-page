@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "portfolio"
+name = "poetry-portfolio"
 version = "0.1.0"
 description = ""
 authors = ["{sappi} <{nopu1783@gmail.com}>"]
