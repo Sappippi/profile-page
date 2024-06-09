@@ -1,8 +1,2 @@
 # profile-page
-my portfolio web site
-
-test
-
-test
-
-test
+my portfolio web site made by Python with Flask
